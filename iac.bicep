@@ -1,5 +1,5 @@
 @description('The name of you Virtual Machine.')
-param vmName string = 'new-01'
+param vmName string = 'new-1'
 
 @description('Username for the Virtual Machine.')
 var adminUsername = 'iac@1234'
